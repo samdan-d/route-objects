@@ -30,7 +30,7 @@ export default function App() {
   return (
     <div>
       <h1>Route Objects Example</h1>
-      <a href="hipaywallet://merchant-transfer">Open App donation</a>
+      <a href="hipaywallet://merchant-transfer/itgelt.m">Open App donation</a>
 
       <p>
         This example demonstrates how to use React Router's "route object" API
